@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    width: 100%;
+}
+
+button {
+    cursor: pointer;
+    background-color: #cdb4db;
+    border-radius: 19px;
+}
+footer p {
+    border: 2px solid #cdb4db;
+    display: block;
+}
+footer {
+    width: 100%;
+}
+
+button:hover, button:active {
+    color: cornsilk;
+    background-color: aqua;
+}
